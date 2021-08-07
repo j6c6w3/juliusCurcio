@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliusCurcio
-- 👀 I’m interested in Web/App development. Blockchain and smart contracts
+- 👀 I’m interested in Web/App development. I also am interested in learning about blockchain useage and smart contracts.
 - 🌱 I’m currently learning javascript, solidity, & CSS
 - 💞️ I’m looking to collaborate on projects facilitating the self management of music artists.
 - 📫 How to reach me julius@fileadelphia.com
